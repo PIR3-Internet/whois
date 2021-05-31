@@ -14,13 +14,13 @@ No registrar with the command line
 **newList1.csv** : without 1064 .co.jp 
 > yahoo.co.jp /  amazon.co.jp  / google.co.jp /  rakuten.co.jp  / dmm.co.jp  / impress.co.jp  / kuronekoyamato.co.jp /  itmedia.co.jp  / sbisec.co.jp /  ...
 
-### .es
+### .es :
 This TLD has no whois server, but you can access the whois database at https://www.nic.es/
 
 **newList2.csv** : without 2188 .es
 > google.es / amazon.es / freepik.es / elmundo.es / abc.es / pinterest.es / caixabank.es / justadeandalucia.es / bancosantander.es / 20minutos.es / sport.es / bankia.es / rtve.es / ... 
 
-### .de
+### .de :
 Restricted rights for the whois request
 
 **newList3.csv** : without 6239 .de
