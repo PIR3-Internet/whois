@@ -28,4 +28,14 @@ Restricted rights for the whois request
 > **newList3.csv** : without 6239 .de
 
 > google.de / amazon.de / ebay.de / ebay-kleinanzeigen.de / spiegel.de / web.de / t-online.de / chip.de / dhl.de / mobile.de / bild.de / immobilienscout24.de / focus.de / welt.de / ... 
+
+# SQLite
+
+**Commands** : .header on / .mode columns / .output out.txt / SELECT * FROM data_registrar;
+
+# Edit registrar
+
+**MarkMonitor** : *MarkMonitor International Limited, MARKMONITOR INC.*
+
+
  
