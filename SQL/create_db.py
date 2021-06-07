@@ -26,8 +26,7 @@ def main():
 
 
     sql_create_table_data = """CREATE TABLE IF NOT EXISTS data_registrar (
-                                    id integer PRIMARY KEY,
-                                    domain text NOT NULL,
+                                    domain text PRIMARY KEY,
                                     registrar text NOT NULL
                                 );"""
 
