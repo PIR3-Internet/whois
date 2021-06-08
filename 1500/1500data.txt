@@ -1,0 +1,1498 @@
+domain|registrar
+google.com|Markmonitor
+youtube.com|Markmonitor
+tmall.com|Alibaba
+qq.com|Markmonitor
+baidu.com|Markmonitor
+sohu.com|Markmonitor
+facebook.com|RegistrarSafe
+login.tmall.com|Alibaba
+taobao.com|Alibaba
+360.cn|eName
+yahoo.com|Markmonitor
+jd.com|Markmonitor
+wikipedia.org|Markmonitor
+amazon.com|Markmonitor
+sina.com.cn|Xinwang Digital Technology
+pages.tmall.com|Alibaba
+weibo.com|eName
+live.com|Corporation Service Company
+reddit.com|Markmonitor
+okezone.com|GoDaddy
+vk.com|Regional Network Information Center
+xinhuanet.com|Beijing Guoxu Network Technology
+netflix.com|Markmonitor
+office.com|Markmonitor
+csdn.net|Alibaba
+blogspot.com|Markmonitor
+alipay.com|Alibaba
+bongacams.com|SafeNames
+instagram.com|RegistrarSafe
+microsoft.com|Markmonitor
+bing.com|Markmonitor
+stackoverflow.com|Name.com
+livejasmin.com|EuroDNS
+panda.tv|eNom
+mama.cn|Alibaba
+google.com.hk|Markmonitor
+microsoftonline.com|Markmonitor
+naver.com|Gabia
+zhanqi.tv|Alibaba
+twitch.tv|Markmonitor
+china.com.cn|Zhongke Sanfang Network Technology
+google.co.in|Markmonitor
+tribunnews.com|Amazon
+aliexpress.com|Alibaba
+ebay.com|Markmonitor
+force.com|Markmonitor
+tianya.cn|eName
+msn.com|Markmonitor
+adobe.com|Com Laude
+twitter.com|Corporation Service Company
+linkedin.com|Markmonitor
+myshopify.com|Markmonitor
+amazon.in|Markmonitor
+yandex.ru|RU-CENTER
+pornhub.com|EuroDNS
+ok.ru|RU-CENTER
+apple.com|Corporation Service Company
+dropbox.com|Markmonitor
+canva.com|Gandi
+wordpress.com|Markmonitor
+mail.ru|RU-CENTER
+yy.com|Alibaba
+google.com.br|Nic.br
+imdb.com|Markmonitor
+huanqiu.com|DNSPod
+babytree.com|Alibaba
+aparat.com|Computer Service Langenbach
+detik.com|Network Solutions
+booking.com|Markmonitor
+bilibili.com|Alibaba
+detail.tmall.com|Alibaba
+whatsapp.com|RegistrarSafe
+17ok.com|eName
+amazonaws.com|Markmonitor
+medium.com|Amazon
+spotify.com|Ports Group AB
+indeed.com|Markmonitor
+sogou.com|Markmonitor
+bbc.com|Tucows
+sindonews.com|PDR
+xvideos.com|Gransy
+cnn.com|Corporation Service Company
+instructure.com|NameCheap
+nytimes.com|Markmonitor
+hao123.com|Markmonitor
+indiatimes.com|Tucows
+jrj.com.cn|Alibaba
+ettoday.net|Net-Chinese
+amazon.co.uk|Amazon
+pixnet.net|Gandi
+freepik.com|1&1 IONOS
+google.fr|Markmonitor
+grid.id|Kilat Domain
+onlinesbi.com|Register.com
+chaturbate.com|CloudFlare
+github.com|Markmonitor
+soundcloud.com|Gandi
+imgur.com|NameCheap
+google.it|Markmonitor
+google.ru|RU-CENTER
+stackexchange.com|Name.com
+shutterstock.com|Markmonitor
+tumblr.com|Markmonitor
+paypal.com|Markmonitor
+kompas.com|Tucows
+wetransfer.com|Key-Systems
+thestartmagazine.com|GoDaddy
+liputan6.com|Amazon
+espn.com|Corporation Service Company
+globo.com|1API
+xhamster.com|NameCheap
+bbc.co.uk|British Broadcasting Corporation
+yao.tmall.com|Alibaba
+office365.com|Markmonitor
+flipkart.com|GoDaddy
+google.cn|eName
+fandom.com|Tucows
+etsy.com|Markmonitor
+udemy.com|SafeNames
+slideshare.net|Amazon
+soso.com|Markmonitor
+theguardian.com|GoDaddy
+researchgate.net|Mesh Digital
+google.co.uk|Markmonitor
+discordapp.com|CloudFlare
+roblox.com|Markmonitor
+zhihu.com|DNSPod
+cnet.com|GoDaddy
+digikala.com|Computer Service Langenbach
+6.cn|Alibaba
+cnblogs.com|eName
+savefrom.net|GoDaddy
+daum.net|Megazone
+1688.com|Alibaba
+mercadolivre.com.br|Nic.br
+pinterest.com|Markmonitor
+google.com.tr|Beril Teknoloji
+so.com|eName
+ndtv.com|Network Solutions
+salesforce.com|Markmonitor
+cricbuzz.com|eNom
+varzesh3.com|GoDaddy
+okta.com|Markmonitor
+chase.com|Markmonitor
+grammarly.com|GoDaddy
+rednet.cn|eName
+iqiyi.com|Alibaba
+gmw.cn|Xinwang Digital Technology
+avito.ru|RU-CENTER
+youm7.com|GoDaddy
+telegram.org|GoDaddy
+wikihow.com|Network Solutions
+bukalapak.com|Amazon
+craigslist.org|Markmonitor
+scol.com.cn|Xinwang Digital Technology
+archive.org|easyDNS Technologies 
+3c.tmall.com|Alibaba
+iqoption.com|101domain
+zillow.com|GoDaddy
+duckduckgo.com|NameCheap
+163.com|Markmonitor
+speedtest.net|Corporation Service Company
+mediafire.com|NameCheap
+hotstar.com|BigRock Solutions
+vimeo.com|Markmonitor
+w3schools.com|Network Solutions
+eastday.com|eName
+unsplash.com|eNom
+godaddy.com|GoDaddy
+telewebion.com|NameCheap
+t.co|Corporation Service Company
+wix.com|GoDaddy
+bet9ja.com|PSI-USA
+google.ca|Markmonitor
+line.me|Markmonitor
+walmart.com|Corporation Service Company
+hdfcbank.com|PDR
+setn.com|GoDaddy
+ilovepdf.com|GoDaddy
+merdeka.com|GoDaddy
+gfycat.com|Google
+samsung.com|Whois Corp.
+wellsfargo.com|Markmonitor
+aliyun.com|Alibaba
+y2mate.com|URL Solutions
+businessinsider.com|GoDaddy
+healthline.com|Amazon
+primevideo.com|Markmonitor
+scribd.com|Gandi
+xnxx.com|Gandi
+tradingview.com|DomainSpot
+nianhuo.tmall.com|Alibaba
+jianshu.com|Name.com
+bestbuy.com|Markmonitor
+washingtonpost.com|Corporation Service Company
+manoramaonline.com|PDR
+taboola.com|Ascio Technologies
+messenger.com|RegistrarSafe
+nvzhuang.tmall.com|Alibaba
+food.tmall.com|Alibaba
+abs-cbn.com|Network Solutions
+ask.com|Markmonitor
+thesaurus.com|Corporation Service Company
+mega.nz|Instra Corporation
+foxnews.com|Markmonitor
+redd.it|Markmonitor
+trello.com|Name.com
+namnak.com|Computer Service Langenbach
+investing.com|GoDaddy
+kapanlagi.com|GoDaddy
+amazon.ca|Markmonitor
+skype.com|Markmonitor
+subject.tmall.com|Alibaba
+uniqlo.tmall.com|Alibaba
+google.co.id|Digital Registra
+suara.com|GoDaddy
+quora.com|Corporation Service Company
+bet365.com|Markmonitor
+douban.com|Alibaba
+ladbible.com|123-Reg
+icicibank.com|Network Solutions
+pexels.com|NameCheap
+thepiratebay.org|easyDNS Technologies 
+amazon.it|Hogan Lovells
+kumparan.com|GoDaddy
+smallpdf.com|DYNADOT
+breitbart.com|GoDaddy
+postlnk.com|URL Solutions
+aliexpress.ru|RU-CENTER
+dailymotion.com|NAMESHIELD
+hulu.com|Corporation Service Company
+ebay.co.uk|Markmonitor
+51sole.com|Jiangsu Bangning Science & technology
+alibaba.com|Alibaba
+tokopedia.com|GoDaddy
+sciencedirect.com|SafeNames
+blogger.com|Markmonitor
+mozilla.org|Markmonitor
+behance.net|Com Laude
+airbnb.com|Markmonitor
+weebly.com|SafeNames
+ensonhaber.com|IHS Telekom
+metropoles.com|GoDaddy
+youth.cn|Alibaba
+amazon.fr|HOGAN LOVELLS
+tripadvisor.com|Corporation Service Company
+googlevideo.com|Markmonitor
+fc2.com|Tucows
+quizlet.com|GoDaddy
+wikimedia.org|Markmonitor
+news18.com|PDR
+google.pl|Markmonitor
+usps.com|Network Solutions
+tistory.com|Megazone
+doubleclick.net|Markmonitor
+sahibinden.com|Network Solutions
+box.com|Markmonitor
+gosuslugi.ru|RU-CENTER
+idntimes.com|PT ARDH GLOBAL
+cloudfront.net|Markmonitor
+khanacademy.org|GoDaddy
+weather.com|Corporation Service Company
+ups.com|Corporation Service Company
+allegro.pl|Corporation Service Company
+ikea.com|Corporation Service Company
+espncricinfo.com|Corporation Service Company
+patch.com|Moniker Online Services
+intuit.com|Markmonitor
+asos.com|Corporation Service Company
+spao.tmall.com|Alibaba
+steamcommunity.com|Network Solutions
+sberbank.ru|RU-CENTER
+zoom.us|GoDaddy
+reverso.net|Gandi
+fedex.com|Corporation Service Company
+goodreads.com|Markmonitor
+google.co.kr|Whois Corp.
+rambler.ru|RU-CENTER
+dailymail.co.uk|Com Laude
+geeksforgeeks.org|PDR
+hootsuite.com|GoDaddy
+mercadolibre.com.ar|nicar
+mercari.com|Markmonitor
+banvenez.com|Tucows
+softonic.com|Network Solutions
+naukri.com|Network Solutions
+crabsecret.tmall.com|Alibaba
+dostor.org|Moniker Online Services
+cnnindonesia.com|Corporation Service Company
+eventbrite.com|Corporation Service Company
+err.tmall.com|Alibaba
+neiyi.tmall.com|Alibaba
+list.tmall.com|Alibaba
+pinimg.com|Markmonitor
+rt.com|Regional Network Information Center
+gap.tmall.com|Alibaba
+9gag.com|Name.com
+scuseami.net|NameCheap
+google.com.au|Markmonitor
+twimg.com|Corporation Service Company
+chinadaily.com.cn|Alibaba
+miao.tmall.com|Alibaba
+aol.com|Markmonitor
+blackboard.com|Corporation Service Company
+ouedkniss.com|OVH sas
+arcgis.com|Markmonitor
+buzzfeed.com|Markmonitor
+trustpilot.com|NameWeb BVBA
+hp.com|Markmonitor
+indiamart.com|Network Solutions
+amazon.cn|eName
+bloomberg.com|Corporation Service Company
+wixsite.com|GoDaddy
+kinopoisk.ru|RU-CENTER
+intoday.in|MPS Infotecnics
+nownews.com|Register.com
+pulzo.com|GoDaddy
+aimer.tmall.com|Alibaba
+ninisite.com|1API
+albawabhnews.com|GoDaddy
+zendesk.com|Markmonitor
+deviantart.com|GoDaddy
+adp.com|Markmonitor
+wowhead.com|Amazon
+citi.com|Corporation Service Company
+homedepot.com|Corporation Service Company
+cambridge.org|Corporation Service Company
+hurriyet.com.tr|METU
+youporn.com|EuroDNS
+moneycontrol.com|PDR
+hepsiburada.com|Network Solutions
+gmx.net|PSI-USA
+zoho.com|CloudFlare
+yandex.com|SafeNames
+souq.com|Markmonitor
+heavy.com|Network Solutions
+vnexpress.net|Register.com
+win-rar.com|EPAG DOMAINSERVICES
+slack.com|Markmonitor
+xfinity.com|Corporation Service Company
+google.com.ua|Markmonitor
+giphy.com|GoDaddy
+wsj.com|Corporation Service Company
+irctc.co.in|Net 4 India
+go.com|Corporation Service Company
+squarespace.com|Markmonitor
+81.cn|Alibaba
+youdao.com|Alibaba
+ecosia.org|Amazon
+t.me|GoDaddy
+kakaku.com|GMO Internet
+mgid.com|GoDaddy
+namasha.com|eNom
+otvfoco.com.br|Nic.br
+gismeteo.ru|RU-CENTER
+leboncoin.fr|NAMESHIELD
+kakao.com|Megazone
+alodokter.com|GoDaddy
+outbrain.com|Network Solutions
+gstatic.com|Markmonitor
+aminoapps.com|NameCheap
+pixabay.com|Gandi
+lee.tmall.com|Alibaba
+surveymonkey.com|Markmonitor
+patreon.com|Markmonitor
+kompasiana.com|Domain.com
+wordreference.com|NameCheap
+issuu.com|Amazon
+mheducation.com|Corporation Service Company
+bancodevenezuela.com|Tucows
+bp.blogspot.com|Markmonitor
+genius.com|NameSecure
+gamepedia.com|Tucows
+indiatoday.in|MPS Infotecnics
+beytoote.com|OnlineNIC
+wildberries.ru|RU-CENTER
+files.wordpress.com|Markmonitor
+springer.com|EuroDNS
+list-manage.com|Gandi
+steampowered.com|Network Solutions
+mathrubhumi.com|PDR
+oracle.com|Markmonitor
+youku.com|Alibaba
+taleo.net|Tucows
+webmd.com|Markmonitor
+rediff.com|Network Solutions
+investopedia.com|Markmonitor
+reuters.com|Markmonitor
+kaskus.co.id|CBN Registrar
+fidelity.com|Corporation Service Company
+prothomalo.com|GoDaddy
+target.com|Corporation Service Company
+duolingo.com|Amazon
+3dmgame.com|Alibaba
+myhome.tmall.com|Alibaba
+coursera.org|GoDaddy
+sourceforge.net|GoDaddy
+marketwatch.com|Corporation Service Company
+mawdoo3.com|GoDaddy
+accuweather.com|Markmonitor
+onet.pl|H88
+zippyshare.com|Tucows
+eksisozluk.com|GoDaddy
+tiktok.com|Gandi
+spankbang.com|NameCheap
+mi.com|Network Solutions
+uselnk.com|URL Solutions
+tutorialspoint.com|GoDaddy
+infobae.com|Markmonitor
+prezi.com|Amazon
+theepochtimes.com|GoDaddy
+wayfair.com|Markmonitor
+mileroticos.com|Soluciones Corporativas IP
+realtor.com|Register.com
+discoveryexpedition.tmall.com|Alibaba
+alnaharegypt.com|Name.com
+theverge.com|Corporation Service Company
+expedia.com|Corporation Service Company
+filimo.com|Computer Service Langenbach
+dell.com|SafeNames
+wish.com|Markmonitor
+sonhoo.com|eName
+zerodha.com|CloudFlare
+td.com|Corporation Service Company
+udn.com|Network Solutions
+tandfonline.com|SafeNames
+haofang.net|Chengdu West Dimension Digital Technology
+merriam-webster.com|Corporation Service Company
+tencent.com|Markmonitor
+bankofamerica.com|Corporation Service Company
+cnnic.cn|Xinwang Digital Technology
+popads.net|NameCheap
+sadsecz.com|eNom
+livejournal.com|Regional Network Information Center
+sdpnoticias.com|Network Solutions
+fiverr.com|GoDaddy
+vice.com|Amazon
+fadsabs.com|eNom
+kickstarter.com|NameCheap
+usatoday.com|Markmonitor
+chess.com|GoDaddy
+wp.pl|AZ.pl
+elpais.com|Ascio Technologies
+crictracker.com|GoDaddy
+crunchyroll.com|Amazon
+deepl.com|Key-Systems
+coupang.com|Gabia
+inquirer.net|Network Solutions
+lun.com|Register.com
+marca.com|EuroDNS
+namu.wiki|Dynadot
+bellabeat.com|Name.com
+zapier.com|Name.com
+seznam.cz|REG-IGNUM
+elwatannews.com|GoDaddy
+myworkdayjobs.com|Markmonitor
+iyiou.com|Alibaba
+fadsims.com|GoDaddy
+medicalnewstoday.com|Amazon
+nypost.com|Markmonitor
+dictionary.com|Corporation Service Company
+ebay.com.au|Markmonitor
+pixiv.net|Key-Systems
+pandora.com|Markmonitor
+creditkarma.com|Corporation Service Company
+shopee.co.id|Digital Registra
+crptgate.com|EuroDNS
+fadsoks.com|GoDaddy
+google.com.pe|Markmonitor
+docusign.net|Markmonitor
+wiley.com|Corporation Service Company
+ibicn.com|Alibaba
+emol.com|GoDaddy
+chegg.com|Markmonitor
+efu.com.cn|eName
+motor1.com|GoDaddy
+uzone.id|PT Registrasi Nama Domain
+toutiao.com|eName
+meetup.com|Markmonitor
+americanas.com.br|Nic.br
+kissanime.ru|ARDIS-RU
+techradar.com|Lexsynergy
+motorsport.com|GoDaddy
+fast.com|Markmonitor
+google.cl|nic.cl
+azure.com|Markmonitor
+olx.com.br|Nic.br
+note.com|GoDaddy
+elsevier.com|SafeNames
+europa.eu|Proximus nv/sa
+ih5.cn|Alibaba
+gusuwang.com|eName
+evernote.com|GoDaddy
+baby.tmall.com|Alibaba
+makemytrip.com|Register.com
+fadsips.com|eNom
+plurk.com|CloudFlare
+britannica.com|Corporation Service Company
+norton.com|Markmonitor
+sarkariresult.com|BigRock Solutions
+brilio.net|GoDaddy
+coursehero.com|GoDaddy
+peacebird.tmall.com|Alibaba
+uber.com|Markmonitor
+milliyet.com.tr|METU
+fadskis.com|eNom
+autodesk.com|Corporation Service Company
+axisbank.co.in|S.G.S. Technologie Pvt
+liansuo.com|eName
+dyson.tmall.com|Alibaba
+study.com|GoDaddy
+sdamgia.ru|REGRU-RU
+nba.com|Corporation Service Company
+urdupoint.com|Computer Service Langenbach
+stremanp.com|URL Solutions
+earthmusic.tmall.com|Alibaba
+myway.com|Markmonitor
+cnbcindonesia.com|Name.com
+sportbible.com|123-Reg
+anta.tmall.com|Alibaba
+kayak.com|101domain
+58.com|eName
+memurlar.net|IHS Telekom
+qualtrics.com|EuroDNS
+reclameaqui.com.br|Nic.br
+orange.fr|ORANGE
+tempo.co|Register.com
+wiktionary.org|Markmonitor
+marriott.com|Corporation Service Company
+chron.com|Corporation Service Company
+ticketmaster.com|Corporation Service Company
+hh.ru|RU-CENTER
+ceconline.com|eName
+timeanddate.com|pair Networks
+mailchimp.com|Network Solutions
+atlassian.net|Markmonitor
+focus.cn|Markmonitor
+ivi.ru|RU-CENTER
+paytm.com|GoDaddy
+livedoor.com|Markmonitor
+sports.tmall.com|Alibaba
+olx.ua|ua.geonic
+sozcu.com.tr|Isimtescil
+dnevnik.ru|RU-CENTER
+onemboaran.com|URL Solutions
+libero.it|ITnet
+feedly.com|Gandi
+xianjichina.com|Xin Net Technology Corporation
+agoda.com|Markmonitor
+wattpad.com|GoDaddy
+rutracker.org|Internet Domain Service BS Corp
+myntra.com|GoDaddy
+fadspms.com|eNom
+uptodown.com|Interdominios
+nur.kz|ICPS
+canada.ca|Authentic Web 
+macys.com|Network Solutions
+fadslims.com|GoDaddy
+fadsecs.com|eNom
+hotels.com|Com Laude
+cabbeen.tmall.com|Alibaba
+google.co.za|Markmonitor
+hamariweb.com|OnlineNIC
+live.net|Corporation Service Company
+expressvpn.com|SafeNames
+olx.pl|Corporation Service Company
+jackjones.tmall.com|Alibaba
+vidio.com|Gandi
+cloudinary.com|GoDaddy
+redtube.com|EuroDNS
+eastmoney.com|Alibaba
+leagueoflegends.com|Markmonitor
+ria.ru|RU-CENTER
+forbes.com|Markmonitor
+dafont.com|Gandi
+khabarfarsi.com|WHC Online Solutions 
+att.com|Corporation Service Company
+ouo.io|GoDaddy
+chinaz.com|eName
+padlet.com|Gandi
+nanxie.tmall.com|Alibaba
+dream.co.id|INDOREG
+as.com|Ascio Technologies
+spanishdict.com|GoDaddy
+11st.co.kr|Gabia
+gamersky.com|Alibaba
+123rf.com|NameCheap
+kknews.cc|NameSilo
+ptt.cc|Network Solutions
+google.at|Markmonitor
+ytmp3.cc|Sarek Oy
+wordpress.org|Markmonitor
+dmm.com|Network Solutions
+semir.tmall.com|Alibaba
+dalfak.com|OnlineNIC
+ifeng.com|Xin Net Technology Corporation
+gearbest.com|Alibaba
+donga.com|Gabia
+howtogeek.com|Google
+costco.com|Corporation Service Company
+360doc.com|Alibaba
+esprit.tmall.com|Alibaba
+kundelik.kz|ICPS
+osskanger.com|URL Solutions
+royalbank.com|GoDaddy
+cnbeta.com|eName
+tonlion.tmall.com|Alibaba
+yelp.com|Markmonitor
+nairaland.com|DomainSite
+capitalone.com|Corporation Service Company
+ekaie.com|Alibaba
+cdninstagram.com|RegistrarSafe
+entrepreneur.com|GoDaddy
+gmarket.co.kr|Whois Corp.
+jagran.com|Network Solutions
+banesconline.com|Network Solutions
+wp.com|Markmonitor
+douyu.com|GoDaddy
+ku.tmall.com|Alibaba
+drom.ru|R01-RU
+uchi.ru|RU-CENTER
+bershka.tmall.com|Alibaba
+billdesk.com|Webcentral Group
+lachapelle.tmall.com|Alibaba
+lenta.ru|RU-CENTER
+wondershare.com|eName
+nexusmods.com|NameCheap
+zomato.com|101domain
+cnki.net|Xin Net Technology Corporation
+biblegateway.com|Markmonitor
+rottentomatoes.com|Markmonitor
+jooble.org|GoDaddy
+bleacherreport.com|Moniker Online Services
+asus.com|Net-Chinese
+amazon.com.br|Nic.br
+gyazo.com|eNom
+npr.org|Network Solutions
+ibm.com|Corporation Service Company
+gjirafa.com|CloudFlare
+xe.com|SafeNames
+topshop.tmall.com|Alibaba
+payu.in|Corporation Service Company
+segmentfault.com|GoDaddy
+ign.com|Corporation Service Company
+repubblica.it|Gandi
+triumph.tmall.com|Alibaba
+sauwoaptain.com|URL Solutions
+deducationeder.pro|NameCheap
+new3c.tmall.com|Alibaba
+fairwhale.tmall.com|Alibaba
+correios.com.br|Nic.br
+narcity.com|GoDaddy
+akamaized.net|Akamai Technologies
+hawaaworld.com|GoDaddy
+dcinside.com|Whois Corp.
+socialblade.com|Tucows
+91jm.com|Alibaba
+gainreel.tmall.com|Alibaba
+epochtimes.com|Google
+americanexpress.com|Corporation Service Company
+cpic.com.cn|Alibaba
+kooora.com|Register.com
+kinogo.by|Reliable Software
+yjc.ir|nic.ir
+bag.tmall.com|Alibaba
+huffpost.com|Markmonitor
+smartsheet.com|Markmonitor
+gucn.tmall.com|Alibaba
+argaam.com|GoDaddy
+ozon.ru|RU-CENTER
+lafuma.tmall.com|Alibaba
+dagospia.com|Register SPA
+creditonebank.com|DomainSpot
+znanija.com|GoDaddy
+rbc.ru|RU-CENTER
+consultant.ru|RU-CENTER
+sabq.org|GoDaddy
+sputniknews.com|Regional Network Information Center
+glassdoor.com|Markmonitor
+biglocateriod.pro|NameCheap
+herokuapp.com|Markmonitor
+manyvids.com|GoDaddy
+tahiamasr.com|GoDaddy
+bhphotovideo.com|Corporation Service Company
+gamespot.com|GoDaddy
+freejobalert.com|GoDaddy
+disqus.com|GoDaddy
+nbcnews.com|Markmonitor
+wt.tmall.com|Alibaba
+rokna.net|Computer Service Langenbach
+intentmedia.net|GoDaddy
+google.nl|Markmonitor
+playstation.com|1API
+animeflv.net|Name.com
+abplive.com|GoDaddy
+epwk.com|Alibaba
+nike.tmall.com|Alibaba
+banma.com|Alibaba
+online-convert.com|PSI-USA
+pngtree.com|Alibaba
+ameritrade.com|Markmonitor
+nike.com|Markmonitor
+etoro.com|Domain The Net Technologies
+baike.com|Alibaba
+verizonwireless.com|Markmonitor
+slickdeals.net|Register.com
+newegg.com|Network Solutions
+imis.tmall.com|Alibaba
+eenadu.net|Network Solutions
+marksandspencer.tmall.com|Alibaba
+afip.gob.ar|nicar
+mos.ru|RU-CENTER
+gmanetwork.com|Network Solutions
+mayoclinic.org|Corporation Service Company
+disneyplus.com|Corporation Service Company
+nikkei.com|Japan Registry Services
+sportzwiki.com|BigRock Solutions
+yodobashi.com|Japan Registry Services
+avg.com|Markmonitor
+myanmarload.com|GoDaddy
+teacherspayteachers.com|GoDaddy
+hubspot.com|Markmonitor
+westernjournal.com|eNom
+nanzhuang.tmall.com|Alibaba
+hespress.com|Genious Communications
+mynet.com|Network Solutions
+it168.com|Alibaba
+drudgereport.com|NameCheap
+banggood.com|Xin Net Technology Corporation
+gaana.com|Tucows
+ultimate-guitar.com|Network Solutions
+superuser.com|Name.com
+cisco.com|Markmonitor
+lenovo.com|Markmonitor
+discover.com|Corporation Service Company
+hatenablog.com|Japan Registry Services
+pcbaby.com.cn|Xinwang Digital Technology
+flickr.com|Markmonitor
+addthis.com|Tucows
+car.tmall.com|Alibaba
+watch.tmall.com|Alibaba
+delta.com|Ladas Domains
+elcomercio.com|Network Solutions
+qiannaimei.tmall.com|Alibaba
+4399.com|eName
+meaww.com|NameCheap
+huim.com|Alibaba
+4shared.com|GoDaddy
+exoclick.com|GoDaddy
+teamviewer.com|RegistryGate
+kijiji.ca|Markmonitor
+service-now.com|GoDaddy
+thefreedictionary.com|Google
+nvxie.tmall.com|Alibaba
+mercantilbanco.com|Tucows
+huaban.com|Alibaba
+aa.com|Corporation Service Company
+upwork.com|Markmonitor
+shopify.com|Markmonitor
+honeys.tmall.com|Alibaba
+newbalance.tmall.com|Alibaba
+chinanetrank.com|Alibaba
+abril.com.br|Nic.br
+it.tmall.com|Alibaba
+langsha.tmall.com|Alibaba
+septwolves.tmall.com|Alibaba
+morningpost.com.cn|Zhongke Sanfang Network Technology
+haberturk.com|Register.com
+politico.com|Register.com
+forever21.tmall.com|Alibaba
+nicsorts-accarade.com|Amazon
+justdial.com|GoDaddy
+jeanswest.tmall.com|Alibaba
+maniform.tmall.com|Alibaba
+seasonvar.ru|REGTIME-RU
+bolasport.com|Domain.com
+dailybrandstory.com|GoDaddy
+workouttomorrow.com|GoDaddy
+winshang.com|Alibaba
+yumpu.com|United-Domains AG
+pearsoned.com|Corporation Service Company
+huawei.com|Markmonitor
+interia.pl|home.pl
+brobible.com|GoDaddy
+tableau.com|Gandi
+asana.com|Amazon
+voot.com|PDR
+icloud.com|Corporation Service Company
+inc.com|Network Solutions
+chinamenwang.com|Alibaba
+chinafloor.cn|Alibaba
+pixlr.com|NameCheap
+themeforest.net|Markmonitor
+business-standard.com|Amazon
+istockphoto.com|Corporation Service Company
+cnzz.com|Alibaba
+hk01.com|GoDaddy
+chinachugui.com|Alibaba
+beeg.com|DomainSpot
+poshmark.com|GoDaddy
+history.com|Corporation Service Company
+ezgif.com|GoDaddy
+dickies.tmall.com|Alibaba
+corriere.it|Tuonome Registrar
+dai.tmall.com|Alibaba
+bitly.com|GoDaddy
+vectorstock.com|Network Solutions
+jw.org|Amazon
+basichouse.tmall.com|Alibaba
+intel.com|Corporation Service Company
+oschina.net|Alibaba
+depositphotos.com|Moniker Online Services
+discogs.com|Amazon
+iweihai.cn|Xinwang Digital Technology
+ntdtv.com|GoDaddy
+jia400.com|Alibaba
+chinaweiyu.com|Alibaba
+urbandictionary.com|NameCheap
+subscene.com|Tucows
+hm.com|Com Laude
+book.tmall.com|Alibaba
+alicdn.com|Alibaba
+semanticscholar.org|Name.com
+thejakartapost.com|Network Solutions
+shouji.tmall.com|Alibaba
+iherb.com|Markmonitor
+ziprecruiter.com|SafeNames
+calvinklein.tmall.com|Alibaba
+itau.com.br|Nic.br
+bola.net|GoDaddy
+dreamstime.com|GoDaddy
+dytt8.net|GoDaddy
+joins.com|Whois Corp.
+myanimelist.net|GoDaddy
+52pojie.cn|Alibaba
+redbubble.com|Amazon
+carsandmiles.com|GoDaddy
+msi.com|Network Solutions
+dw.com|RegistryGate
+axisbank.com|Network Solutions
+provincial.com|Tucows
+usnews.com|Network Solutions
+vseigru.net|reg.ru
+ukr.net|Network Solutions
+trulia.com|GoDaddy
+higherperspectives.com|GoDaddy
+scofield.tmall.com|Alibaba
+360.com|eName
+manganelo.com|TurnCommerce
+epicgames.com|Markmonitor
+exe.io|GoDaddy
+jpmorganchase.com|Markmonitor
+pantip.com|eNom
+cnbc.com|Markmonitor
+elintransigente.com|GoDaddy
+informer.com|GoDaddy
+cengage.com|PSI-USA
+9384.com|eName
+parsfootball.com|Computer Service Langenbach
+vox.com|Corporation Service Company
+concursolutions.com|Corporation Service Company
+aastocks.com|Network Solutions
+zhcw.com|Alibaba
+audible.com|Corporation Service Company
+gazetaexpress.com|GoDaddy
+haberler.com|Moniker Online Services
+ojooo.com|GoDaddy
+urfs.tmall.com|Alibaba
+y8.com|eNom
+news.com.au|Corporation Service Company
+weibo.cn|eName
+dingtalk.com|Alibaba
+serconmp.com|URL Solutions
+eland.tmall.com|Alibaba
+bzw315.com|eName
+kizlarsoruyor.com|GoDaddy
+kolonsport.tmall.com|Alibaba
+spiceworks.com|Corporation Service Company
+thehindu.com|eNom
+threegun.tmall.com|Alibaba
+over-blog.com|Gandi
+glassdoor.co.in|Markmonitor
+zara.com|Com Laude
+bandcamp.com|DomainSpot
+multiurok.ru|REGTIME-RU
+fivethirtyeight.com|Corporation Service Company
+envato.com|Markmonitor
+andhrajyothy.com|GoDaddy
+dawn.com|Network Solutions
+umeng.com|Alibaba
+eee114.com|Alibaba
+auction.co.kr|Whois Corp.
+utorrent.com|GoDaddy
+xing.com|United-Domains AG
+nhentai.net|NameCheap
+sbrf.ru|BEELINE-RU
+asriran.com|Computer Service Langenbach
+3sk.io|Key-Systems
+python.org|Gandi
+neobux.com|Name.com
+ytimg.com|Markmonitor
+minuto30.com|NetEarth One 
+jkforum.net|eNom
+mseav.com|DNSPod
+yenisafak.com|GoDaddy
+126.com|Markmonitor
+laleggepertutti.it|Aruba
+zhibo8.cc|GoDaddy
+trontv.com|GoDaddy
+farsnews.ir|nic.ir
+qiita.com|Amazon
+elyamnelaraby.com|GoDaddy
+yespornplease.com|Tucows
+nature.com|Corporation Service Company
+hollisterco.tmall.com|Alibaba
+olymptrade.com|EuroDNS
+collegeboard.org|Safenames
+ebay.it|Markmonitor
+home77.com|Alibaba
+sanjesh.org|DomainPeople
+pikabu.ru|REGRU-RU
+contehos.com|URL Solutions
+worldometers.info|GoDaddy
+chinayigui.com|Alibaba
+runoob.com|Alibaba
+commbank.com.au|Corporation Service Company
+xabbs.com|eName
+hi.ru|RU-CENTER
+hsbc.com.hk|Markmonitor
+sakshi.com|Register.com
+lining.tmall.com|Alibaba
+ionos.com|PSI-USA
+skrill.com|Markmonitor
+yallakora.com|eNom
+filehorse.com|NameCheap
+chaduo.com|eName
+chosun.com|Whois Corp.
+clarin.com|Network Solutions
+digitaltrends.com|GoDaddy
+users.wix.com|GoDaddy
+nga.cn|eName
+nalog.ru|RU-CENTER
+cbssports.com|Markmonitor
+e-hentai.org|GoDaddy
+wunderground.com|Corporation Service Company
+dailycaller.com|GoDaddy
+trendyol.com|GoDaddy
+filmix.co|NameCheap
+jia.tmall.com|Alibaba
+fun48.com|GoDaddy
+jb51.net|GoDaddy
+pelisplus.me|Name.com
+mlb.com|Corporation Service Company
+internetdownloadmanager.com|Network Solutions
+lotterypost.com|CloudFlare
+indianexpress.com|GoDaddy
+anjuke.com|Xin Net Technology Corporation
+battle.net|Network Solutions
+kemdikbud.go.id|Kementerian Komunikasi dan Informatika
+time.com|Markmonitor
+gaadiwaadi.com|GoDaddy
+178.com|Alibaba
+yna.co.kr|Gabia
+financialexpress.com|GoDaddy
+sap.com|Network Solutions
+rtl-theme.com|Atak Domain
+indosport.com|GoDaddy
+las2orillas.co|Central Comercializadora de Internet
+eluniverso.com|DNC Holdings
+arcot.com|Corporation Service Company
+edx.org|Gandi
+blogfa.com|Tucows
+bookmyshow.com|GoDaddy
+uptobox.com|Internet Domain Service BS Corp
+nhl.com|Moniker Online Services
+secureserver.net|Wild West Domains
+smzdm.com|eName
+pajak.go.id|Kementerian Komunikasi dan Informatika
+zarinpal.com|Atak Domain
+babyschool.com.cn|Shangzhong Online Technology
+okcupid.com|Markmonitor
+farfetch.com|Network Solutions
+ynet.co.il|Domain The Net Technologies
+onelogin.com|GoDaddy
+newsmth.net|Xin Net Technology Corporation
+nate.com|Gabia
+un.org|Network Solutions
+ted.com|Name.com
+discuss.com.hk|Hong Kong Domain
+b-ok.cc|Eranet International
+zoomit.ir|nic.ir
+prensalibre.com|Network Solutions
+cima4u.tv|Name.com
+jagranjosh.com|GoDaddy
+studfile.net|Internet Domain Service BS Corp
+coinmarketcap.com|Markmonitor
+rctiplus.com|Web Commerce Communications
+sabah.com.tr|METU
+mydailymagazine.com|GoDaddy
+ppomppu.co.kr|Whois Corp.
+srvtrck.com|GoDaddy
+usaa.com|Markmonitor
+gsmarena.com|Computer Service Langenbach
+cookpad.com|Network Solutions
+accenture.com|Corporation Service Company
+pole-emploi.fr|NAMESHIELD
+creativemarket.com|Amazon
+cbsnews.com|Markmonitor
+world.tmall.com|Alibaba
+zhaket.com|1API
+telegraph.co.uk|Markmonitor
+shein.com|Alibaba
+yourdictionary.com|Network Solutions
+aruba.it|Aruba
+bb.com.br|Nic.br
+usbank.com|Markmonitor
+ea.com|Corporation Service Company
+to8to.com|Alibaba
+sina.cn|Zhongke Sanfang Network Technology
+guru99.com|GoDaddy
+zappos.com|Markmonitor
+tsetmc.com|Tucows
+flaticon.com|1&1 IONOS
+oneindia.com|PDR
+schwab.com|Markmonitor
+kitco.com|Network Solutions
+prom.ua|ua.imena
+goal.com|SafeNames
+gongchang.com|Todaynic.com
+strava.com|GoDaddy
+hupu.com|eName
+sxyprn.com|NameSilo
+kinokrad.co|GoDaddy
+propdfconverter.com|Markmonitor
+tamasha.com|GoDaddy
+maam.ru|RU-CENTER
+crhoy.com|Domain.com
+lowes.com|Corporation Service Company
+opera.com|NameWeb BVBA
+yijiadh.com|NameCheap
+punchng.com|Google
+iheartintelligence.com|FastDomain 
+donya-e-eqtesad.com|Computer Service Langenbach
+tim.it|Telecom Italia
+mirconnect.ru|RU-CENTER
+powerapp.download|Dynadot
+mydrivers.com|eName
+sf-express.com|DNSPod
+ali213.net|eName
+cyberleninka.ru|RU-CENTER
+rbcroyalbank.com|GoDaddy
+capterra.com|Network Solutions
+scmp.com|GoDaddy
+iliangcang.com|Alibaba
+tirto.id|ResellerCamp
+successfactors.com|PSI-USA
+jmw.com.cn|Alibaba
+jotform.com|Tucows
+wired.com|Corporation Service Company
+ssl-images-amazon.com|Markmonitor
+auth0.com|Markmonitor
+mobafire.com|DreamHost
+bmi.ir|nic.ir
+n11.com|IHS Telekom
+viu.com|Corporation Service Company
+2gis.ru|RU-CENTER
+realclearpolitics.com|GoDaddy
+cimaclub.com|Name.com
+258.com|eName
+daxuecidian.com|Alibaba
+t-mobile.com|Deutsche Telekom AG
+viva.co.id|PT INDOSAT MEGA MEDIA
+bicentenariobu.com|GoDaddy
+techtudo.com.br|Nic.br
+tci.ir|nic.ir
+icims.com|Markmonitor
+goibibo.com|Network Solutions
+kp.ru|RU-CENTER
+lanacion.com.ar|nicar
+wowkeren.com|NameCheap
+thebalancecareers.com|Markmonitor
+riotgames.com|Markmonitor
+gazeta.ru|RU-CENTER
+hesport.com|GoDaddy
+flashscore.com|OnlineNIC
+duba.com|eName
+apnews.com|Network Solutions
+danawa.com|Inames
+monografias.com|Name.com
+tasnimnews.com|Gandi
+house365.com|Bizcn.com
+credit-agricole.fr|SILCA
+cyol.com|Alibaba
+opensooq.com|Name.com
+protonmail.com|Markmonitor
+appledaily.com|Amazon
+koreastardaily.com|GoDaddy
+hipwee.com|GoDaddy
+askubuntu.com|Name.com
+tripadvisor.in|Corporation Service Company
+answers.com|Network Solutions
+nordstrom.com|Markmonitor
+lefigaro.fr|NAMESHIELD
+scotiabank.com|Markmonitor
+seek.com.au|Corporation Service Company
+torrentwal.com|Wild West Domains
+nseindia.com|BigRock Solutions
+google.co.il|Domain The Net Technologies
+bastillepost.com|GoDaddy
+elbotola.com|DYNADOT
+gongkong.com|Alibaba
+rapidgator.net|Internet Domain Service BS Corp
+magazineluiza.com.br|Nic.br
+alwakeelnews.com|Name.com
+lentainform.com|GoDaddy
+labanquepostale.fr|NAMESHIELD
+unity.com|Markmonitor
+abc.net.au|Tucows
+quizizz.com|GoDaddy
+jeffreestarcosmetics.com|GoDaddy
+plex.tv|GoDaddy
+getresponse.com|Network Solutions
+baskino.me|TLD Registrar Solutions
+rsalchk.com|GoDaddy
+ecollege.com|Corporation Service Company
+kotak.com|Network Solutions
+fotostrana.ru|REGRU-RU
+mosreg.ru|RU-CENTER
+gadgetnews.net|Key-Systems
+ancestry.com|Markmonitor
+digialm.com|PDR
+dhgate.com|eName
+1tv.ru|RU-CENTER
+drive2.ru|RU-CENTER
+vvvdj.com|Alibaba
+rencaijob.com|Alibaba
+southwest.com|Markmonitor
+apkpure.com|eNom
+btcsurf.io|Soluciones Corporativas IP
+wiocha.pl|Consulting Service
+bayt.com|Network Solutions
+kahoot.it|EuroDNS SA
+chinadd.cn|Alibaba
+17track.net|Xin Net Technology Corporation
+gofundme.com|GoDaddy
+ebay.fr|Markmonitor
+chinatimes.com|Web Commerce Communications
+gizmodo.com|Corporation Service Company
+bol.uol.com.br|Nic.br
+sporx.com|Name.com
+tutsplus.com|Markmonitor
+liquipedia.net|Gandi
+xbox.com|Corporation Service Company
+akoam.net|NameCheap
+glosbe.com|OVH sas
+tesla.com|Markmonitor
+pirate-bay.net|Hostinger
+realestate.com.au|Corporation Service Company
+pnc.com|Corporation Service Company
+astrologyanswers.com|NameCheap
+rappler.com|GoDaddy
+2345.com|Alibaba
+sonyliv.com|eNom
+lieyunwang.com|Alibaba
+redfin.com|GoDaddy
+clips4sale.com|EuroDNS
+criteo.com|Gandi
+ruliweb.com|Gabia
+mercadolibre.com.co|Markmonitor
+truecaller.com|Amazon
+sfgate.com|Corporation Service Company
+nexon.com|Gabia
+ebay.ca|Markmonitor
+jpnn.com|CV. Rumahweb Indonesia
+cian.ru|RU-CENTER
+indiaglitz.com|Network Solutions
+onlinekhabar.com|GoDaddy
+hilton.com|Markmonitor
+bankbazaar.com|GoDaddy
+4chan.org|CloudFlare
+myfitnesspal.com|Corporation Service Company
+whitepages.com|Amazon
+shopifypreview.com|eNom
+ryanair.com|Network Solutions
+tut.by|Reliable Software
+popcash.net|NameCheap
+99114.com|eName
+bola.com|Gandi
+taringa.net|Corporation Service Company
+phimmoi.net|Name.com
+dpreview.com|Markmonitor
+hqq.tv|Internet Domain Service BS Corp
+indigocoin.net|GoDaddy
+mercadolibre.com|Markmonitor
+fararu.com|Computer Service Langenbach
+yoox.com|Network Solutions
+etnet.com.hk|Hong Kong Domain
+bancoestado.cl|nic.cl
+neoldu.com|Name.com
+pojoksatu.id|PT Registrasi Nama Domain
+zaful.com|Alibaba
+gridoto.com|GoDaddy
+gogoanime.io|NameCheap
+malavida.com|Soluciones Corporativas IP
+bollywoodshaadis.com|eNom
+psychologytoday.com|GoDaddy
+nvidia.com|SafeNames
+rutor.info|Tucows
+futbin.com|Tucows
+windows.net|Markmonitor
+exhentai.org|Name.com
+thedailybeast.com|Markmonitor
+agah.com|1API
+zcool.com.cn|Alibaba
+huya.com|Bizcn.com
+mobile01.com|Tucows
+eyny.com|eNom
+haber7.com|GoDaddy
+storage.googleapis.com|Markmonitor
+cfsbcn.com|Alibaba
+scroll.in|eNom
+inven.co.kr|Gabia
+temp-mail.org|GoDaddy
+klikbca.com|Network Solutions
+championat.com|Regional Network Information Center
+onlinedown.net|Xin Net Technology Corporation
+getintopc.com|NameCheap
+lapatilla.com|Network Solutions
+xhamsterlive.com|NameCheap
+channelnewsasia.com|Corporation Service Company
+kino-teatr.ru|RD-RU
+jugantor.com|PDR
+webex.com|Markmonitor
+overleaf.com|GoDaddy
+greatandhra.com|Network Solutions
+motorplus-online.com|PDR
+whatismyipaddress.com|GoDaddy
+listindiario.com|Network Solutions
+chatwork.com|Amazon
+xgo.com.cn|Alibaba
+ft.com|Corporation Service Company
+teespring.com|Amazon
+snapdeal.com|GoDaddy
+thehill.com|Network Solutions
+filehippo.com|Markmonitor
+v2ex.com|CloudFlare
+template.net|DomainSite
+onlyfans.com|GoDaddy
+lihkg.com|NameCheap
+sznews.com|Xin Net Technology Corporation
+torrentz2.eu|Sarek Oy
+uniqlo.com|1API
+turnitin.com|Network Solutions
+gettyimages.com|Corporation Service Company
+51cto.com|Alibaba
+hrloo.com|Alibaba
+xiami.com|Alibaba
+sudannews365.org|GoDaddy
+theatlantic.com|Network Solutions
+collinsdictionary.com|Markmonitor
+arxiv.org|Network Solutions
+jstor.org|Network Solutions
+twoo.com|REGISTER NV
+ency-education.com|Register.com
+mehrnews.com|Tucows
+rozetka.com.ua|ua.imena
+republika.co.id|CBN Registrar
+keepvid.pro|GoDaddy
+serverfault.com|Name.com
+eghtesadnews.com|Computer Service Langenbach
+yandex.net|SafeNames
+yektanet.com|Web Commerce Communications
+lifewire.com|Markmonitor
+avgle.com|Tucows
+airtel.in|GoDaddy
+vanguard.com|Markmonitor
+t66y.com|Domain.com
+jimdofree.com|Amazon
+joinhoney.com|Markmonitor
+commentcamarche.net|SafeBrands
+allrecipes.com|Markmonitor
+sagepub.com|Network Solutions
+privatbank.ua|ua.imena
+tarafdari.com|Tucows
+instructables.com|GoDaddy
+zdnet.com|GoDaddy
+gumtree.com.au|Markmonitor
+mydramalist.com|Name.com
+behindwoods.com|eNom
+emalls.ir|nic.ir
+gtmetrix.com|eNom
+kissasian.sh|EPAG Domainservices
+deezer.com|Gandi
+fanfiction.net|GoDaddy
+setare.com|Computer Service Langenbach
+ubereats.com|Markmonitor
+w3school.com.cn|Alibaba
+poki.com|Amazon
+made-in-china.com|Xin Net Technology Corporation
+towardsdatascience.com|GoDaddy
+houzz.com|Corporation Service Company
+tinder.com|Markmonitor
+zee5.com|GoDaddy
+dy2018.com|GoDaddy
+escapefromtarkov.com|Wild West Domains
+vecteezy.com|Domain.com
+flightradar24.com|GoDaddy
+adoptapet.com|GoDaddy
+artstation.com|GoDaddy
+straitstimes.com|Corporation Service Company
+rediffmailpro.com|Network Solutions
+ghanaweb.com|GoDaddy
+cleartax.in|Corporation Service Company
+uploaded.net|NameCheap
+irna.ir|nic.ir
+ieee.org|Network Solutions
+elbilad.net|OnlineNIC
+schoology.com|Network Solutions
+bhaskar.com|PDR
+doodle.com|Corehub
+mfisp.com|OnlineNIC
+eporner.com|Key-Systems
+pc6.com|eName
+aizhan.com|GoDaddy
+cosmopolitan.com|Corporation Service Company
+paytm.in|GoDaddy
+daftsex.com|NameCheap
+codeproject.com|Network Solutions
+google.kz|KAZNIC
+ggpht.com|Markmonitor
+efukt.com|GoDaddy
+movieweb.com|Network Solutions
+shiksha.com|Network Solutions
+telegraf.com.ua|ua.ukrnames
+eqxiu.com|Beijing Sanfront Information Technology
+last.fm|Markmonitor
+gangde.net|Shanghai Meicheng Technology Information Development
+fresherslive.com|NameCheap
+forgeofempires.com|INWX
+blizzard.com|Network Solutions
+fnb.co.za|Lexsynergy
+curseforge.com|Amazon
+fullhdfilmizlesene.net|Go Montenegro Domains
+kq36.com|eName
+forexfactory.com|Network Solutions
+abcnews.go.com|Corporation Service Company
+cargurus.com|GoDaddy
+khtahmar.com|PDR
+mymovies.it|Register S.p.a.
+telekom.com|Deutsche Telekom AG
+habr.com|Internet Domain Service BS Corp
+csod.com|Network Solutions
+emofid.com|1API
+arabiaweather.com|GoDaddy
+ultipro.com|Network Solutions
+worldoftanks.ru|RU-CENTER
+mizbanfa.net|Name.com
+sheypoor.com|Name.com
+shutterfly.com|Markmonitor
+warcraftlogs.com|DreamHost
+sanook.com|Network Solutions
+rotumal.com|URL Solutions
+moneyforward.com|Japan Registry Services
+nesn.com|Network Solutions
+36kr.com|Alibaba
+visualstudio.com|Markmonitor
+constantcontact.com|Markmonitor
+livescore.com|Corporation Service Company
+feng.com|Chengdu West Dimension Digital Technology
+ofhappinyer.com|URL Solutions
+netteller.com|NameCheap
+republicworld.com|PDR
+walgreens.com|Corporation Service Company
+livescience.com|Lexsynergy
+windy.com|eNom
+getawesome2.com|NameCheap
+aa.com.tr|Cizgi
+bluehost.com|Domain.com
+thingiverse.com|NameCheap
+oup.com|Network Solutions
+disney.go.com|Corporation Service Company
+bestshow.co|1API
+newsweek.com|Markmonitor
+brainly.in|OVH sas
+graphicriver.net|Markmonitor
+stockx.com|Amazon
+pikiran-rakyat.com|PDR
+matamata.com|GoDaddy
+litecoinads.com|OVH sas
+windowsazure.com|Markmonitor
+cda.pl|Aftermarket.pl
+makeuseof.com|GoDaddy
+insider.com|Com Laude
+5acbd.com|Beijing Innovative Linkage Software Service
+syosetu.com|eNom
+eshkol.io|GoDaddy
+enstage-sas.com|Network Solutions
+goodhousekeeping.com|Corporation Service Company
+rg.ru|RU-CENTER
+kapook.com|DotArai
+xtx6.com|Alibaba
+doordash.com|Amazon
+thoughtco.com|Markmonitor
+wto168.net|Web Commerce Communications
+dynamics.com|Corporation Service Company
+norton-expired.com|Danesco Trading
+jamnews.com|Tucows
+apache.org|NameCheap
+jusbrasil.com.br|Nic.br
+mathworks.com|Markmonitor
+otzovik.com|Regtime
+zhaopin.com|Xin Net Technology Corporation
+tagged.com|Register.com
+tomsguide.com|Lexsynergy
+pastebin.com|NameCheap
+variety.com|eNom
+cctv.com|Beijing Sanfront Information Technology
+celebrityinsider.org|GoDaddy
+thebestgame2020.com|eNom
+groupon.com|Markmonitor
+delgarm.com|Computer Service Langenbach
+jalan.net|Corporation Service Company
+docin.com|NetEarth One 
+mk.ru|RU-CENTER
+cnwnews.com|Bizcn.com
+olx.in|Corporation Service Company
+google.se|Markmonitor
+gucci.com|Com Laude
+ovh.com|OVH sas
+gazeta.pl|home.pl
+worktile.com|Alibaba
+anydesk.com|Hetzner Online
+emirates.com|Markmonitor
+idnes.cz|REG-INTERNET-CZ
+ccm.net|SafeBrands
+mp3teca.com|GoDaddy
+film2media.pw|Namecheap
+faradars.org|1API
+asahi.com|Japan Registry Services
+fbsbx.com|RegistrarSafe
+licindia.in|GoDaddy
+arduino.cc|GoDaddy
+shomanews.com|Computer Service Langenbach
+skyscanner.com|Corporation Service Company
+lazada.co.id|Digital Registra
+ameli.fr|Corporation Service Company
+boredpanda.com|Tucows
+jio.com|GoDaddy
+media.tumblr.com|Markmonitor
+topfo.com|Xin Net Technology Corporation
+gismeteo.ua|ua.imena
+minecraft.net|Tucows
+baixing.com|eName
+rakuten.com|Markmonitor
+garmin.com|Markmonitor
+eztv.io|Gandi
+selfridges.com|Instra Corporation
+nbcsports.com|Markmonitor
+wuxiaworld.com|NameCheap
+priceline.com|Markmonitor
+thebalance.com|Markmonitor
+forums.wordpress.com|Markmonitor
+chinajsq.cn|Alibaba
+kbb.com|Corporation Service Company
+cbc.ca|Authentic Web 
+fool.com|GoDaddy
+cdiscount.com|Corporation Service Company
+xunlei.com|Alibaba
+chetor.com|Web Commerce Communications
+autotrader.com|Corporation Service Company
+support.wordpress.com|Markmonitor
+mxtoolbox.com|Network Solutions
+cleanpng.com|NameSilo
+bitget.cc|GoDaddy
+cricketaddictor.com|GoDaddy
+youla.ru|RU-CENTER
+eset.com|Computer Service Langenbach
+spectrum.net|Corporation Service Company
+folha.uol.com.br|Nic.br
+al-marsd.com|eNom
+privat24.ua|ua.imena
+filmibeat.com|PDR
+sfr.fr|Société Française du Radiotéléphone - SFR
+400.cn|eName
+xmtrading.com|GoDaddy
+popbela.com|GoDaddy
+elle.com|Gandi
+sbicard.com|Corporation Service Company
+orf.at|APA-IT Informations Technologie
+9978.cn|eName
+withoutworking.com|GoDaddy
+chaoxing.com|Alibaba
+mongodb.com|Gandi
+storylnk.com|URL Solutions
+gh0089.com|Dynadot9
+wordhippo.com|GoDaddy
+mediaset.it|Register S.p.a.

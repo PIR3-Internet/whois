@@ -1,0 +1,365 @@
+registrar|quantity
+Markmonitor|674
+Alibaba|494
+RegistrarSafe|17
+eName|1193
+Xinwang Digital Technology|32
+Corporation Service Company|579
+GoDaddy|1744
+Regional Network Information Center|17
+Beijing Guoxu Network Technology|3
+EuroDNS|56
+eNom|239
+Gabia|54
+Zhongke Sanfang Network Technology|13
+Amazon|175
+Com Laude|8
+RU-CENTER|253
+Gandi|224
+Nic.br|321
+DNSPod|7
+Computer Service Langenbach|72
+Network Solutions|527
+Ports Group AB|11
+Tucows|247
+PDR|164
+Gransy|16
+Net-Chinese|8
+1&1 IONOS|29
+Kilat Domain|21
+Register.com|67
+CloudFlare|105
+Key-Systems|90
+1API|69
+British Broadcasting Corporation|2
+Mesh Digital|14
+Megazone|17
+Beril Teknoloji|4
+easyDNS Technologies |23
+101domain|23
+BigRock Solutions|10
+PSI-USA|45
+Google|68
+Whois Corp.|42
+DomainSpot|95
+Ascio Technologies|50
+Instra Corporation|21
+Digital Registra|21
+123-Reg|18
+Hogan Lovells|3
+DYNADOT|49
+Jiangsu Bangning Science & technology|3
+IHS Telekom|15
+PT ARDH GLOBAL|2
+Moniker Online Services|39
+nicar|75
+OVH sas|105
+MPS Infotecnics|7
+METU|23
+EPAG DOMAINSERVICES|17
+Net 4 India|10
+GMO Internet|133
+Domain.com|49
+OnlineNIC|49
+CBN Registrar|15
+H88|6
+Soluciones Corporativas IP|21
+AZ.pl|11
+REG-IGNUM|6
+PT Registrasi Nama Domain|23
+ARDIS-RU|4
+Lexsynergy|20
+nic.cl|32
+Proximus nv/sa|2
+S.G.S. Technologie Pvt|1
+REGRU-RU|93
+ORANGE|5
+pair Networks|10
+ua.geonic|1
+Isimtescil|3
+ITnet|15
+Xin Net Technology Corporation|51
+Internet Domain Service BS Corp|71
+Interdominios|2
+ICPS|9
+Authentic Web |10
+WHC Online Solutions |5
+INDOREG|4
+Sarek Oy|7
+R01-RU|18
+Webcentral Group|7
+Reliable Software|5
+Register SPA|36
+Domain The Net Technologies|23
+Japan Registry Services|33
+RegistryGate|8
+REGTIME-RU|31
+United-Domains AG|10
+home.pl|9
+TurnCommerce|6
+BEELINE-RU|2
+NetEarth One |5
+Aruba|11
+Kementerian Komunikasi dan Informatika|18
+Central Comercializadora de Internet|16
+DNC Holdings|19
+Hong Kong Domain|19
+Eranet International|12
+ua.imena|22
+FastDomain |24
+Telecom Italia|7
+ResellerCamp|8
+DreamHost|23
+PT INDOSAT MEGA MEDIA|2
+Bizcn.com|13
+SILCA|2
+TLD Registrar Solutions|50
+Consulting Service|3
+Hostinger|9
+CV. Rumahweb Indonesia|3
+SafeBrands|14
+Corehub|7
+KAZNIC|4
+Beijing Sanfront Information Technology|3
+Shanghai Meicheng Technology Information Development|6
+INWX|12
+Go Montenegro Domains|7
+Cizgi|1
+Aftermarket.pl|2
+Beijing Innovative Linkage Software Service|9
+DotArai|2
+Danesco Trading|51
+Hetzner Online|9
+REG-INTERNET-CZ|18
+Société Française du Radiotéléphone - SFR|1
+Entorno Digital|10
+TLDS L.L.C. |12
+Domain Robot|4
+MAILPLUG |3
+DropCatch.com 880|16
+Dreamscape Networks International Pte|7
+İHS KURUMSAL TEKNOLOJİ HİZMETLERİ ANONİM ŞİRKETİ|7
+Koreacenter|5
+Epik |7
+China Enterprise Power Technology|2
+LiveDns|3
+Tiscali Italia S.p.a.|2
+0101 INTERNET|14
+Sify|7
+HOSTER.KZ|7
+22net|5
+Alphanet sp. z o.o.|2
+Hosting Concepts B.V. |23
+Rebel.ca Corp.|5
+A.R.C. Informatique |2
+Marcaria.com International|5
+Foshan YiDong Network|1
+Agnat|5
+Synergy Wholesale|1
+Dinahosting s.l.|4
+Reg2C.com |1
+Fastweb|6
+NIC .PE|7
+National Informatics Centre|13
+Dattatec Corp.|1
+NameSnapper|26
+Launchpad.com |5
+Advanced Internet Technologies|22
+Nom-iq|42
+Arsys Internet|21
+Realtime Register B.V.|7
+Open Contact|6
+Loopia Group AB|2
+Netcom|3
+Cosmotown|1
+Guangdong JinWanBang Technology Investment|5
+Shanghai Best Oray Information S&T|1
+Hutchison Drei Austria|1
+US Locality|3
+Beijing Lightspeed Link Technology |1
+Serverplan|3
+PKO BP SA|2
+UAB "Interneto vizija"|12
+NHS Network Addressing Team|1
+Infomaniak Network SA|5
+Zhuimi Inc|3
+Chengdu Fly-Digital Technology|2
+IDC Frontier |4
+Rijksoverheid|1
+NETFOX-RF|1
+Daou Tech Inc|1
+Deluxe Small Business Sales|4
+EDUCATION SERVICES AUSTRALIA|8
+Global Village|2
+REG-ACTIVE24|8
+CCI REG|4
+Nominalia Internet S.L.|14
+dotFM|2
+NIT.KZ|2
+Blacknight Solutions|2
+Hostin Services Pvt.|1
+OpenTLD B.V.|5
+AVENIR TELEMATIQUE|2
+DomainsAreForever.net|5
+Above.com|7
+DomainQuadrat Marketing|2
+MainReg |8
+INTERNET INVEST|18
+NPO|1
+ARSENAL-D|3
+Sanoma Oyj|2
+Guangdong Times |1
+Netpia.com|11
+Spot Domain|30
+Web4Africa|1
+V2 Technosys |1
+Host Europe|1
+Media Elite Holdings|1
+GKG.Net|4
+Barbero & Associates|7
+Consortium GARR|6
+co.imena|1
+Zhejiang Two Two Network|2
+ua.nic|3
+Irideos|3
+ZNet Technologies Private|2
+Yantai Desp Network|1
+Sav.com|1
+ua.hostpro|2
+India Links Web Hosting Pvt|3
+Jisc Services|12
+Letshost|1
+University of Oxford|1
+abcdomain|7
+Heart Internet|11
+Israel Internet Association ISOC-IL|13
+The Open University|1
+Telia Lietuva|2
+Omnis Network|3
+Kagoya Japan |2
+PE Top Level Domain Admin|2
+ORDIPAT|1
+Domain Directors|7
+Cedacri S.p.a.|1
+State of Florida|1
+Cloud Group|1
+SAS Ligne Web Services - LWS|1
+Zunyi Zhongyu Zhike|1
+SARKOR TELECOM|1
+TransIP Group|3
+ENARTIA|5
+RELCOMHOST-RU|3
+Virtualia|2
+CINECA Consorzio Interuniversitario|1
+Telia Finland Oyj|1
+ua.visti|1
+Cronon AG|2
+East of Eden|1
+REG-WEDOS|1
+FBS |6
+KSHOSTING inc|1
+Domeneshop AS|2
+Connect West|1
+Netowl|6
+Vautron Rechenzentrum AG|4
+Loopia AB|6
+Internet Solutions|9
+NEUDOMAINS DIGITAL S.L.|5
+MEYER & PARTENAIRES|1
+Web Address Registration|2
+PSI-Japan|5
+1 Api|7
+xneelo|2
+s IT Solutions AT Spardat|1
+KPN|1
+Dept of Public Expenditure|1
+BT Nederland N.V.|3
+Servizi Internet|7
+KHEWEUL.COM SA|1
+Misk.com|1
+Wolters Kluwer Italia|1
+4D Data Centres|1
+UAB "IDAMAS"|1
+BEGET-RU|3
+EUROIX SP. Z O.O.|1
+The Manchester Metropolitan University|1
+SPIE CLOUD SERVICES|1
+Euronic Oy|2
+Hu Yi Global Information Hong Kong|1
+Frobbit AB|1
+CENTRALREG-RU|13
+Everyones Internet|6
+premium.pl|1
+ua.ukraine|1
+Porkbun|2
+Shinjiru Technology Sdn Bhd|2
+Inic|1
+Go China Domains|3
+Camelot Business Solutions|1
+HANGANG Systems|4
+DOTCOM SERVICES (INDIA) PVT. LTD -|1
+Lepida S.c.p.a.|1
+DotRoll Kft.|1
+ua.teleportsv|2
+Total Web Solutions|2
+Tecnocratica Centro de Datos|2
+ua.drs|1
+itsecurity (ITSecurity|1
+PERSKIMEDIA Szymon Perski|1
+F-Solutions Oy|1
+Belastingdienst Centrum voor Infrastructuur en Exploitatie|1
+Swansea University|1
+Demys|1
+Supermedia sp. z o.o.|1
+1&amp;1 Ionos SE|1
+DOMENUS-RU|1
+PLANET BOURGOGNE|1
+Ur-Sltn LTD|1
+I2|2
+VHosting Solution|1
+Universiteit Twente|2
+ua.1gb|1
+The University of Sheffield|1
+SPEEDY GROUP CORP.|1
+CPS-Datensysteme|1
+Universal Registration Services|1
+Dinfo.pl Sylwia Wierońska|1
+Ledl.net|1
+Valtion tieto|1
+GFX|1
+KEY ? SYSTEMS|1
+Online Innovation|1
+Cloud.nl|1
+SCALEWAY|1
+REG-WEBSUPPORT|1
+MAT BAO CORPORATION|1
+REG-MEDIA4WEB|2
+SURF B.V.|1
+MCNC-NCREN|1
+ME-NET|2
+RSAWEB Internet Services|3
+NamePal.com #8021|2
+Shanghai Yovole Networks|1
+Nakazawa Trading|1
+IPTWINS|1
+Enel Italia|1
+Incubatec|1
+Arvic Search Services |1
+ZACR|1
+Afrihost|1
+P.A. Viet Nam Company|1
+Oriental Netscape|1
+Xiwei Digital |1
+Openprovider|1
+Hostopia|1
+NETHOUSE-RU|1
+Vodafone|1
+Beijing Zihai Technology|1
+Rupert Hunt|1
+SDV6TM|1
+10dencehispahard|1
+GiDiNet di Iunco Daniele Antonio|1
+MWEB|1
+Jyväskylän yliopisto|1
+DomainRoyale.com|1
+NETIM sarl|1

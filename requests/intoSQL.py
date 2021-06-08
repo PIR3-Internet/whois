@@ -14,14 +14,17 @@ def create_connection(db_file):
     return conn
 
 
+#data into database
 def create_data(conn, data):
  
-    sql = ''' INSERT OR IGNORE INTO data_registrar(id, domain, registrar)
-              VALUES(?,?,?) '''
-    cur = conn.cursor()
-    cur.execute(sql, data)
-    conn.commit()
-    return cur.lastrowid
+    sql = ''' INSERT OR IGNORE INTO data_registrar( domain, registrar)
+              VALUES(?,?) '''
+    with conn :
+        cur = conn.cursor()
+        cur.execute(sql, data)
+        conn.commit()
+        return cur.lastrowid
+
 
 def read(file, conn):
 
@@ -32,35 +35,39 @@ def read(file, conn):
         failure = list()
         print("start")
 
+        #for every domains
         for row in myReader:
-            if i<100:
-                
-                try:
+            if i<1000000:
+                if i>24200:
+                    try:
 
-                    w = whois.query(row[0], ignore_returncode=1)
-                    print(row[0])
+                        w = whois.query(row[0], ignore_returncode=1)    #get registrar
+                        reg = w.registrar
+                        data=(row[0],reg)
+                        create_data(conn,data)                          #data into the database
+                        print(row[0],end=' - ')
+                        print(reg)
 
-                    data=(i,row[0],w.registrar)
-                    create_data(conn,data)
-
-                except Exception as e:
-                    failure.append(row[0])
-                    message = """
-                    Error : {},
-                    On Domain: {}
-                    """.format(str(e), row[0])
-                    print(message)
+                    except Exception as e:                              #If error
+                        failure.append(row[0])
+                        message = """
+                        Error : {},
+                        On Domain: {}
+                        """.format(str(e), row[0])
+                        print(message)
             i=i+1
 
 
 def main():
+
     database = r"../pythonsqlite.db"
 
     # create a database connection
     conn = create_connection(database)
+
     with conn:
 
-        file="newList3.csv"
+        file="list_domains.csv"
         read(file, conn)
 
 if __name__ == '__main__':

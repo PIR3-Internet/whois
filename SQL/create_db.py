@@ -22,12 +22,18 @@ def create_table(conn, create_table_sql):
 
 
 def main():
-    database = r"../pythonsqlite.db"
+    database = r"../pythonsqlite17000.db"
 
-
-    sql_create_table_data = """CREATE TABLE IF NOT EXISTS data_registrar (
+    #all domains with their registrar
+    sql_create_table1 = """CREATE TABLE IF NOT EXISTS data_registrar (
                                     domain text PRIMARY KEY,
                                     registrar text NOT NULL
+                                );"""
+
+    #all registrar and the quantity of domains 
+    sql_create_table2 = """CREATE TABLE IF NOT EXISTS all_registrar (
+                                    registrar text PRIMARY KEY,
+                                    quantity text NOT NULL
                                 );"""
 
     # create a database connection
@@ -35,8 +41,9 @@ def main():
 
     # create tables
     if conn is not None:
-        # create tasks table
-        create_table(conn, sql_create_table_data)
+        # create tables
+        create_table(conn, sql_create_table1)
+        create_table(conn, sql_create_table2)
     else:
         print("Error! cannot create the database connection.")
 

@@ -1,0 +1,134 @@
+registrar|quantity
+Markmonitor|224
+Alibaba|161
+RegistrarSafe|7
+eName|141
+Xinwang Digital Technology|8
+Corporation Service Company|116
+GoDaddy|195
+Regional Network Information Center|5
+Beijing Guoxu Network Technology|1
+EuroDNS|11
+eNom|30
+Gabia|9
+Zhongke Sanfang Network Technology|3
+Amazon|33
+Com Laude|8
+RU-CENTER|38
+Gandi|26
+Nic.br|23
+DNSPod|4
+Computer Service Langenbach|16
+Network Solutions|100
+Ports Group AB|1
+Tucows|30
+PDR|17
+Gransy|1
+Net-Chinese|2
+1&1 IONOS|2
+Kilat Domain|3
+Register.com|14
+CloudFlare|9
+Key-Systems|6
+1API|9
+British Broadcasting Corporation|1
+Mesh Digital|1
+Megazone|3
+Beril Teknoloji|1
+easyDNS Technologies |2
+101domain|3
+BigRock Solutions|4
+PSI-USA|6
+Google|5
+Whois Corp.|8
+DomainSpot|11
+Ascio Technologies|5
+Instra Corporation|2
+Digital Registra|3
+123-Reg|2
+Hogan Lovells|2
+DYNADOT|5
+Jiangsu Bangning Science & technology|1
+IHS Telekom|5
+PT ARDH GLOBAL|1
+Moniker Online Services|6
+nicar|9
+OVH sas|5
+MPS Infotecnics|2
+METU|3
+EPAG DOMAINSERVICES|4
+Net 4 India|1
+GMO Internet|1
+Domain.com|6
+OnlineNIC|6
+CBN Registrar|4
+H88|1
+Soluciones Corporativas IP|3
+AZ.pl|1
+REG-IGNUM|1
+PT Registrasi Nama Domain|4
+ARDIS-RU|1
+Lexsynergy|4
+nic.cl|3
+Proximus nv/sa|1
+S.G.S. Technologie Pvt|1
+REGRU-RU|5
+ORANGE|1
+pair Networks|1
+ua.geonic|1
+Isimtescil|1
+ITnet|2
+Xin Net Technology Corporation|12
+Internet Domain Service BS Corp|8
+Interdominios|1
+ICPS|2
+Authentic Web |2
+WHC Online Solutions |1
+INDOREG|1
+Sarek Oy|2
+R01-RU|1
+Webcentral Group|1
+Reliable Software|2
+Register SPA|4
+Domain The Net Technologies|4
+Japan Registry Services|5
+RegistryGate|2
+REGTIME-RU|3
+United-Domains AG|2
+home.pl|2
+TurnCommerce|1
+BEELINE-RU|1
+NetEarth One |2
+Aruba|2
+Kementerian Komunikasi dan Informatika|2
+Central Comercializadora de Internet|1
+DNC Holdings|1
+Hong Kong Domain|2
+Eranet International|1
+ua.imena|5
+FastDomain |1
+Telecom Italia|1
+ResellerCamp|1
+DreamHost|2
+PT INDOSAT MEGA MEDIA|1
+Bizcn.com|3
+SILCA|1
+TLD Registrar Solutions|4
+Consulting Service|1
+Hostinger|1
+CV. Rumahweb Indonesia|1
+SafeBrands|2
+Corehub|1
+KAZNIC|1
+Beijing Sanfront Information Technology|2
+Shanghai Meicheng Technology Information Development|1
+INWX|1
+Go Montenegro Domains|1
+Cizgi|1
+Aftermarket.pl|1
+Beijing Innovative Linkage Software Service|1
+DotArai|1
+Danesco Trading|1
+Hetzner Online|1
+REG-INTERNET-CZ|1
+Société Française du Radiotéléphone - SFR|1
